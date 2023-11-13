@@ -1,9 +1,9 @@
 Oioi!! Eu sou a Letícia Lapa 👋
 <div>
   <a href="https://github.com/LehLapa">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LehLapa&show_icons=true&theme=midnight-purple&include_all_commits=tru&count_private+true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehLapa&layout=donut-vertical&theme=midnight-purple"/>
-</div>]
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LehLapa&show_icons=true&theme=midnight-purple&include_all_commits=tru&count_private+true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehLapa&layout=donut-vertical&theme=midnight-purple"/>
+</div>
     
 ##
 
