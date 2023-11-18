@@ -13,4 +13,4 @@ Oioi!! Eu sou a Letícia Lapa 👋
 ## 
 ![snake gif](https://github.com/LehLapa/LehLapa/blob/output/github-contribution-grid-snake.gif)
 
-[![readme]("https://github-readme-stats.verce1.app/api/pin/?username=LehLapa&repo=LehLapa&theme=midnight-purple")]("https://github.com/LehLapa/LehLapa")
+[![]("https://github-readme-stats.verce1.app/api/pin/?username=LehLapa&repo=LehLapa&theme=tokyonight")]("https://github.com/LehLapa/LehLapa")
