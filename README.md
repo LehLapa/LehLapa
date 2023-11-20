@@ -1,4 +1,4 @@
-## Oioi!! Eu sou a Letícia Lapa 👋
+<h2> Oioi!! Eu sou a Letícia Lapa <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 <div>
   <a href="https://github.com/LehLapa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LehLapa&show_icons=true&theme=tokyonight&include_all_commits=tru&count_private+true"/>
@@ -13,7 +13,6 @@
 </div> 
     
  ##
-    
-![snake gif](https://github.com/LehLapa/LehLapa/blob/output/github-contribution-grid-snake.gif)
+  <h2> A little more about me... <img src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJzaTFhNWZ4ZTB1dHMwMDI4c3R2NWF5cjBxeGZ6ZjYwY282c2NmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rgx0dbs3uZXwA7JcPR/giphy.gif" height="55" width="55">
 
-[![]("https://github-readme-stats.verce1.app/api/pin/?username=LehLapa&repo=LehLapa&theme=tokyonight")]("https://github.com/LehLapa/LehLapa")
+
