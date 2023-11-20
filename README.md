@@ -1,4 +1,4 @@
-<h2> Oioi!! Eu sou a Letícia Lapa <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
+<h2> Yo!! I'm Letícia Lapa <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 <div>
   <a href="https://github.com/LehLapa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LehLapa&show_icons=true&theme=tokyonight&include_all_commits=tru&count_private+true"/>
@@ -11,8 +11,8 @@
   <a href="leticiadalapa@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
   <a href="https://www.linkedin.com/in/letícia-lapa-2710b6280/" target="_blanck"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div> 
-    
- ##
-  <h2> A little more about me... <img src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJzaTFhNWZ4ZTB1dHMwMDI4c3R2NWF5cjBxeGZ6ZjYwY282c2NmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rgx0dbs3uZXwA7JcPR/giphy.gif" height="55" width="55">
+
+##
+  <h2> A little more about me... <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJzaTFhNWZ4ZTB1dHMwMDI4c3R2NWF5cjBxeGZ6ZjYwY282c2NmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rgx0dbs3uZXwA7JcPR/giphy.gif" height="55" width="55"></h2>
 
 
