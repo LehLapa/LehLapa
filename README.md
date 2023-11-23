@@ -13,8 +13,6 @@
 </div> 
 
 ##
-  <h2> A little more about me... <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJzaTFhNWZ4ZTB1dHMwMDI4c3R2NWF5cjBxeGZ6ZjYwY282c2NmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rgx0dbs3uZXwA7JcPR/giphy.gif" height="55" width="55"></h2>
 
-<img src="https://terraria.wiki.gg/images/3/3d/Emote_Weather_Rainbow.gif">
 
 
