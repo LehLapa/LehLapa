@@ -1,4 +1,4 @@
-<h2> Yo!! I'm Letícia Lapa <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
+<h2 align="center"> Yo!! I'm Letícia Lapa <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 <div>
   <a href="https://github.com/LehLapa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LehLapa&show_icons=true&theme=tokyonight&include_all_commits=tru&count_private+true"/>
