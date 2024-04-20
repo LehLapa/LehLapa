@@ -15,8 +15,17 @@
   <a href="https://www.linkedin.com/in/letícia-lapa-2710b6280/" target="_blanck"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
 </div>
 
+ ## <img height="55" width="55" src="https://github.com/LehLapa/LehLapa/assets/128638269/cb79d373-9bbe-4602-a5e2-264805ee1d8a">  Sobre mim!
+ 
+<div align="left">
+  <img height="23" width="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/5e9d0b8d-ffbb-454a-be9a-e358044f59c5"> Atualmente estou cursando <b>Proramação de Jogos Digitais</b> pela Etec Professor Basilides de Godoy!<br>
+  <img height="27" width="27" src="https://github.com/LehLapa/LehLapa/assets/128638269/9bbdb5cc-74c4-494c-b5dc-4e040b5a6608"> Inglês Intermediário<br>
+  <img height="27" width="27" src="https://github.com/LehLapa/LehLapa/assets/128638269/df97fe13-a78c-45cf-b8f7-0bac63807064"> Adoro ler, escrever e vagar pelo mundo dos games :) Paixão pela criação de game design/art, ilustrações e cenários.<br>
+ </div>
+
+
   ##
-  
+
 <div align="center">
  <div style="display: inline_block"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="center" alt="Lapa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
