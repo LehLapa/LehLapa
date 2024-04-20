@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/LehLapa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LehLapa&show_icons=true&theme=dark&include_all_commits=tru&count_private+true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehLapa&layout=compact&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LehLapa&show_icons=true&theme=dark&include_all_commits=tru&count_private+true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehLapa&layout=compact&theme=dark"/>
 </div>
 <div align="center">
   <a href="https://www.instagram.com/whoislapa_/ target="_blanck"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
