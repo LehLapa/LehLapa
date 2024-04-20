@@ -2,7 +2,10 @@
 
 <div align="center">
  <img align="center" width="650" height="325" src="https://github.com/LehLapa/LehLapa/assets/128638269/cec0c9a6-8f1c-4dbd-b5a1-12a768bc2034"> 
-</div><br>
+</div>
+<br>
+
+
 
 <div align="center">
   <a href="https://github.com/LehLapa">
@@ -19,8 +22,8 @@
  
 <div align="left">
   <img height="23" width="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/5e9d0b8d-ffbb-454a-be9a-e358044f59c5"> Atualmente estou cursando <b>Proramação de Jogos Digitais</b> pela Etec Professor Basilides de Godoy!<br>
-  <img height="27" width="27" src="https://github.com/LehLapa/LehLapa/assets/128638269/9bbdb5cc-74c4-494c-b5dc-4e040b5a6608"> Inglês Intermediário<br>
-  <img height="27" width="27" src="https://github.com/LehLapa/LehLapa/assets/128638269/df97fe13-a78c-45cf-b8f7-0bac63807064"> Adoro ler, escrever e vagar pelo mundo dos games :) Paixão pela criação de game design/art, ilustrações e cenários.<br>
+  <img height="30" width="26" src="https://github.com/LehLapa/LehLapa/assets/128638269/9bbdb5cc-74c4-494c-b5dc-4e040b5a6608"> Inglês Intermediário<br>
+  <img height="30" width="26" src="https://github.com/LehLapa/LehLapa/assets/128638269/df97fe13-a78c-45cf-b8f7-0bac63807064"> Adoro ler, escrever e vagar pelo mundo dos games :) Paixão pela criação de game design/art, ilustrações e cenários.<br>
  </div>
 
 
