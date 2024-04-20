@@ -1,7 +1,7 @@
 <h2 align="center"> Yo!! I'm Letícia Lapa, Game Programming Student! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
 <div align="center">
- <img align="center" width="800" height="400" src="https://github.com/LehLapa/LehLapa/assets/128638269/cec0c9a6-8f1c-4dbd-b5a1-12a768bc2034"> 
+ <img align="center" width="650" height="325" src="https://github.com/LehLapa/LehLapa/assets/128638269/cec0c9a6-8f1c-4dbd-b5a1-12a768bc2034"> 
 </div><br>
 
 <div align="center">
