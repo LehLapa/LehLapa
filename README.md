@@ -22,10 +22,21 @@
  
 <div align="left">
   <img height="23" width="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/5e9d0b8d-ffbb-454a-be9a-e358044f59c5"> Atualmente estou cursando <b>Proramação de Jogos Digitais</b> pela Etec Professor Basilides de Godoy!<br>
-  <img height="30" width="26" src="https://github.com/LehLapa/LehLapa/assets/128638269/9bbdb5cc-74c4-494c-b5dc-4e040b5a6608"> Inglês Intermediário<br>
+  <img height="30" width="30" src="https://github.com/LehLapa/LehLapa/assets/128638269/9bbdb5cc-74c4-494c-b5dc-4e040b5a6608"> Inglês Intermediário<br>
   <img height="30" width="26" src="https://github.com/LehLapa/LehLapa/assets/128638269/df97fe13-a78c-45cf-b8f7-0bac63807064"> Adoro ler, escrever e vagar pelo mundo dos games :) Paixão pela criação de game design/art, ilustrações e cenários.<br>
  </div>
 
+## <img height="40" src="https://github.com/LehLapa/LehLapa/assets/128638269/cfc284fe-0dc1-4240-a03a-1114bb77266d"> Trabalhos 
+
+ <div align="left">
+    <img height="35" width="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/eaacc4ed-7094-4b78-9879-a54d60f319e9">  Alguns trabalhos para que você possa me conhecer mais: <br>
+    <img height="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/b6f00c02-99a3-4bb9-8d2f-aa988c5d09f2"><a href="a"> nome </a><br>
+    <img height="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/b6f00c02-99a3-4bb9-8d2f-aa988c5d09f2"><a href="a"> nome </a> <br>
+    <img height="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/b6f00c02-99a3-4bb9-8d2f-aa988c5d09f2"><a href="a"> nome </a> <br>
+    <img height="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/b6f00c02-99a3-4bb9-8d2f-aa988c5d09f2"><a href="a"> nome </a> <br>
+    <img height="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/b6f00c02-99a3-4bb9-8d2f-aa988c5d09f2"><a href="a"> nome </a> <br>
+     Para mais informações, acesse meu <a href="https://www.linkedin.com/in/letícia-lapa-2710b6280/">LinkedIn</a> ou meus <a href="https://github.com/LehLapa?tab=repositories"> Repositórios </a> no GitHub!
+  </div>
 
   ##
 
