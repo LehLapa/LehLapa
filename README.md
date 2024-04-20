@@ -27,8 +27,8 @@
 ## <img height="40" src="https://github.com/LehLapa/LehLapa/assets/128638269/cfc284fe-0dc1-4240-a03a-1114bb77266d"> Trabalhos 
 
  <div align="left">
-    <img height="35" width="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/eaacc4ed-7094-4b78-9879-a54d60f319e9">  Alguns trabalhos para que você possa me conhecer mais: <br>
-    <img height="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/b6f00c02-99a3-4bb9-8d2f-aa988c5d09f2"><a href="a"> nome </a><br>
+    <img height="35" width="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/eaacc4ed-7094-4b78-9879-a54d60f319e9"> Alguns trabalhos para que você possa me conhecer mais: <br>
+    <img height="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/b6f00c02-99a3-4bb9-8d2f-aa988c5d09f2"><a href="https://github.com/YosagiGames"> Trabalho de Conclusão de Curso pela ETEC Professor Basilídes de Godoy </a><br>
     <img height="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/b6f00c02-99a3-4bb9-8d2f-aa988c5d09f2"><a href="a"> nome </a> <br>
     <img height="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/b6f00c02-99a3-4bb9-8d2f-aa988c5d09f2"><a href="a"> nome </a> <br>
     <img height="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/b6f00c02-99a3-4bb9-8d2f-aa988c5d09f2"><a href="a"> nome </a> <br>
