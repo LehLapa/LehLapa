@@ -27,7 +27,7 @@
 ## <img height="40" src="https://github.com/LehLapa/LehLapa/assets/128638269/cfc284fe-0dc1-4240-a03a-1114bb77266d"> Trabalhos 
 
  <div align="left">
-    <img height="35" width="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/eaacc4ed-7094-4b78-9879-a54d60f319e9"> Alguns trabalhos para que você possa me conhecer mais: <br>
+    <img height="20" src="https://terraria.wiki.gg/images/f/f3/Emote_Emotion_Alert.gif"> Alguns trabalhos para que você possa me conhecer mais: <br>
     <img height="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/b6f00c02-99a3-4bb9-8d2f-aa988c5d09f2"><a href="https://github.com/YosagiGames"> Trabalho de Conclusão de Curso, pela ETEC Professor Basilides de Godoy </a><br>
     <img height="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/b6f00c02-99a3-4bb9-8d2f-aa988c5d09f2"><a href="https://github.com/LehLapa/Projeto470SP"> Projeto Comemoração 470 Anos de SP, pela ETEC Professor Basilides de Godoy </a> <br>
      <br> Para mais informações, acesse meu <a href="https://www.linkedin.com/in/letícia-lapa-2710b6280/">LinkedIn</a> ou meus <a href="https://github.com/LehLapa?tab=repositories"> Repositórios </a> no GitHub!
