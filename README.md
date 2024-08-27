@@ -29,7 +29,6 @@
  <div align="left">
     <img height="20" src="https://terraria.wiki.gg/images/f/f3/Emote_Emotion_Alert.gif"> Alguns trabalhos para que você possa me conhecer mais: <br>
     <img height="23" src="https://github.com/LehLapa/LehLapa/assets/128638269/b6f00c02-99a3-4bb9-8d2f-aa988c5d09f2"><a href="https://github.com/YosagiGames"> Trabalho de Conclusão de Curso, pela ETEC Professor Basilides de Godoy </a><br>
-
      <br> Para mais informações, acesse meu <a href="https://www.artstation.com/leticialapa5">ArtStation</a> ou meus <a href="https://github.com/LehLapa?tab=repositories"> Repositórios </a> no GitHub!
   </div>
 
