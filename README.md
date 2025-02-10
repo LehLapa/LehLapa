@@ -24,7 +24,7 @@
   <img height="30" width="26" src="https://github.com/LehLapa/LehLapa/assets/128638269/df97fe13-a78c-45cf-b8f7-0bac63807064"> I love reading, writing and wandering around the world of games :) Passion for creating <b>Game Design/Art</b>, concept art, scenarios and 3D Modeling for Games.<br>
  </div>
 
-## <img height="40" src="https://github.com/LehLapa/LehLapa/assets/128638269/cfc284fe-0dc1-4240-a03a-1114bb77266d"> Trabalhos 
+## <img height="40" src="https://github.com/LehLapa/LehLapa/assets/128638269/cfc284fe-0dc1-4240-a03a-1114bb77266d"> Works 
 
  <div align="left">
     <img height="20" src="https://terraria.wiki.gg/images/f/f3/Emote_Emotion_Alert.gif"> Some work so you can get to know me more: <br>
